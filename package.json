@@ -1,0 +1,23 @@
+{
+  "name": "pushnotificationsservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/cuzzes/pushnotificationsservice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/cuzzes/pushnotificationsservice/issues"
+  },
+  "homepage": "https://gitlab.com/cuzzes/pushnotificationsservice#readme",
+  "dependencies": {
+    "expo-server-sdk": "^3.4.0"
+  }
+}
